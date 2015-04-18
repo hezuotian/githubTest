@@ -1,4 +1,4 @@
-
+//这是一个工具类
 public class Util {
 	public static String bytesToString(byte[] b){
 		String res="";
